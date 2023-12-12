@@ -8,12 +8,7 @@ algorithm processes a frame only once using a fixed grid size and then determine
 grid box contains an image or not. For this purpose, the object detection algorithm uses a 
 confidence metric and multiple bounding boxes within each grid box. However, it does not go 
 into the complexities of multiple aspect ratios or feature maps, and thus, while this produces 
-results faster, they may be somewhat less accurate than SSD. A very popular YOLO model is 
-its third version, named YOLOv3; the latest and most powerfulversionisYOLOv7. 
-How to apply Image Recognition Models Image Recognition with Python :When it comes to 
-image recognition, Python is the programming language of choice for most data scientists and 
-computer vision engineers. It supports a huge number of libraries specifically designed for AI 
-workflows – including image detection and recognition. 
+results faster, they may be somewhat less accurate than SSD.
 
 ## Step 1): 
 To get your computer set up to perform python image recognition tasks, you need 
