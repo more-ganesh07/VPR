@@ -1,1 +1,3 @@
-# VPR
+# Visual Product Recongnition
+
+Developing an advanced object detection model for e-commerce and retail applications. The challenge involves recognizing products in user-generated images with specified bounding boxes and accurately matching them with corresponding products in seller photos. The objective is to create an algorithm that seamlessly identifies and aligns products in seller photos with diverse user-generated search queries, considering two types of images: real-world user photos and carefully composed seller photos. The key focus is on accurate product identification, localization, and matching within these two distinct image categories.
