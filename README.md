@@ -33,4 +33,5 @@ take you step-by-step through the process of setting up an environment for AI on
 machine or on your Collab that you can use
 
 
-[Visual Product Recognisation.pdf](https://github.com/more-ganesh07/Visual_Product_Recongnition/files/14664506/Visual.Product.Recognisation.pdf)
+[Visual Product Recognisation.pdf](https://github.com/more-ganesh07/Visual_Product_Recongnition/files/14667978/Visual.Product.Recognisation.pdf)
+
